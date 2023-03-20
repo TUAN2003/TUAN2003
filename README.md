@@ -2,7 +2,6 @@
 <h3 align="center">my facebook page</h3>
 <p align="center"><img src="https://www.pngitem.com/pimgs/m/0-875_backhand-index-pointing-down-icon-finger-point-down.png" alt="fdown" width="30"
 height="30"></p>
-
 <h3 align="center"><a href="https://www.facebook.com/profile.php?id=100048143435485"><img width="50" height="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" alt="fb"></a></h3>
 
 
