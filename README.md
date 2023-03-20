@@ -27,5 +27,5 @@
   
 <h3 align="left">IDE And TextEditor</h3>
 <p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+        src="https://www.bing.com/ck/a?!&&p=63110cebd22557d7JmltdHM9MTY3OTI3MDQwMCZpZ3VpZD0yMjI0M2M2NC04ZjFmLTYyZGUtMjcyYy0yZDhkOGU3OTYzOWQmaW5zaWQ9NTQ0NQ&ptn=3&hsh=3&fclid=22243c64-8f1f-62de-272c-2d8d8e79639d&u=a1L2ltYWdlcy9zZWFyY2g_cT1JY29uJTIwRWNsaXBzZSZGT1JNPUlRRlJCQSZpZD1GRkI0NUU4NEU2REEwRTg4ODE1OEE2QjMyQkREMDhBOUQ4QjMxQ0JE&ntb=1"
         alt="dotnet" width="40" height="40" /> </a></p>
