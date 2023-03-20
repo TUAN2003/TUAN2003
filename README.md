@@ -22,6 +22,10 @@ height="50"></p>
             width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> 
+    <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="js"
+            width="40" height="40" />
+    <img src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png" alt="html" width="40" height="40" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css" width="40" height="40" />
 </p>
 <h3 align="left">FrameWorks</h3>
 <p align="left">
