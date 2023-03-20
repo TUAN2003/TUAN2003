@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vu Anh Tuan</h1>
 <h3 align="center">A passionate frontend developer from VN</h3>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="999+">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+<p align="center">
+            <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="999+">
 </p>
 
-<h3 align="left">Languages Prg:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
@@ -18,6 +20,12 @@
             width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> </p>
+<h3 align="left">FrameWork</h3>
+<p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+        alt="dotnet" width="40" height="40" /> </a></p>
+  
+<h3 align="left">IDE And TextEditor</h3>
 <p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
         alt="dotnet" width="40" height="40" /> </a></p>
