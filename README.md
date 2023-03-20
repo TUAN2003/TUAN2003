@@ -1,31 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vu Anh Tuan</h1>
-<h3 align="center">A passionate frontend developer from VN</h3>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello, I'm Vu Anh Tuan<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" alt="hello" width="60" height="60"></h1>
+<h3 align="center">my facebook page</h3>
+<p align="center"><img src="https://www.pngitem.com/pimgs/m/0-875_backhand-index-pointing-down-icon-finger-point-down.png" alt="fdown" width="50"
+height="50"></p>
+
+<h3 align="center"><a href="https://www.facebook.com/profile.php?id=100048143435485"><img width="50" height="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" alt="fb"></a></h3>
 
 
 <p align="center">
-            <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="999+">
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="999+">
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"
-        rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
-            width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> </p>
+<p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
+            width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> 
+</p>
 <h3 align="left">FrameWorks</h3>
-<p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-        alt="dotnet" width="40" height="40" /> </a></p>
-  
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+            alt="dotnet" width="40" height="40" /> 
+</p>
+
 <h3 align="left">IDE And TextEditor</h3>
-<p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.bing.com/ck/a?!&&p=63110cebd22557d7JmltdHM9MTY3OTI3MDQwMCZpZ3VpZD0yMjI0M2M2NC04ZjFmLTYyZGUtMjcyYy0yZDhkOGU3OTYzOWQmaW5zaWQ9NTQ0NQ&ptn=3&hsh=3&fclid=22243c64-8f1f-62de-272c-2d8d8e79639d&u=a1L2ltYWdlcy9zZWFyY2g_cT1JY29uJTIwRWNsaXBzZSZGT1JNPUlRRlJCQSZpZD1GRkI0NUU4NEU2REEwRTg4ODE1OEE2QjMyQkREMDhBOUQ4QjMxQ0JE&ntb=1"
-        alt="dotnet" width="40" height="40" /> </a></p>
+<p align="left"><img src="https://clipground.com/images/eclipse-logo-png-3.png"
+            alt="eclipse" width="40" height="40" /> 
+        <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="netbean" width="40" height="40" />
+        <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" alt="vs code" width="40" height="40">
+        <img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-256.png" alt="netbean" width="40"
+            height="40" /></p>
