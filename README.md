@@ -20,7 +20,7 @@
             width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> </p>
-<h3 align="left">FrameWork</h3>
+<h3 align="left">FrameWorks</h3>
 <p align="left"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
         alt="dotnet" width="40" height="40" /> </a></p>
