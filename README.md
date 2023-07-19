@@ -37,4 +37,4 @@
         <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" alt="vs code" width="40" height="40">
         <img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-256.png" alt="netbean" width="40"
             height="40" />
-<img src="https://th.bing.com/th/id/OIP.AwZGcEjenWFglP9XSgo5owHaIV?pid=ImgDet&rs=1" width="40" height="40"></p>
+<img src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png" width="40" height="40"></p>
