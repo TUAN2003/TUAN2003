@@ -1,5 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is VU ANH TUAN
-<div class="tenor-gif-embed" data-postid="25184232" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/robots-gif-25184232">Robots GIF</a>from <a href="https://tenor.com/search/robots-gifs">Robots GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ===================================================================================================================================
 
 * 🌍  I'm based in HA NOI
