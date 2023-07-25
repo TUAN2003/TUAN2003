@@ -1,5 +1,3 @@
-<img src="header.gif" width="100%"/>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is VU ANH TUAN
 ===================================================================================================================================
 
@@ -35,3 +33,4 @@ src="https://img.shields.io/github/followers/TUAN2003?logo=github&style=for-the-
 <a href="http://www.github.com/TUAN2003"><img src="https://github-readme-stats.vercel.app/api?username=TUAN2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TUAN2003's GitHub stats" /></a>
 
 <a href="https://github.com/TUAN2003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUAN2003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="header.gif" width="100%"/>
