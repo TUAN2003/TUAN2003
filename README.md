@@ -1,40 +1,43 @@
-<h1 align="center">Hello, I'm Vu Anh Tuan<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" alt="hello" width="60" height="60"></h1>
-<h3 align="center">my facebook page</h3>
-<h3 align="center"><a href="https://www.facebook.com/profile.php?id=100048143435485"><img width="50" height="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" alt="fb"></a></h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is VU ANH TUAN
+===================================================================================================================================
+
+* 🌍  I'm based in HA NOI
+* ✉️  You can contact me at [tuananhvund0321@gmail.com](mailto:tuananhvund0321@gmail.com)
+
+<a href="https://www.github.com/TUAN2003" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TUAN2003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
 
 
-<p align="center">
-    <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="999+">
-</p>
-
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
-            width="40" height="40" /> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> 
-    <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="js"
-            width="40" height="40" />
-    <img src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png" alt="html" width="40" height="40" />
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css" width="40" height="40" />
-</p>
-<h3 align="left">FrameWorks</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" /> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<h3 align="left">IDE And TextEditor</h3>
-<p align="left"><img src="https://clipground.com/images/eclipse-logo-png-3.png"
-            alt="eclipse" width="40" height="40" /> 
-        <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="netbean" width="40" height="40" />
-        <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" alt="vs code" width="40" height="40">
-        <img src="https://pics.computerbase.de/9/9/2/3/0-e36f805671c3b980/logo-256.png" alt="netbean" width="40"
-            height="40" />
-<img src="https://3.bp.blogspot.com/-RH0O7wYQXUc/VozSayGFPlI/AAAAAAAALjc/nhg8bQ_PQR8/s1600/Android_Studio_icon.svg.png" width="40" height="40"></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100048143435485" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/TUAN2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/TUAN2003"><img src="https://github-readme-stats.vercel.app/api?username=TUAN2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TUAN2003's GitHub stats" /></a>
+
+<a href="http://www.github.com/TUAN2003"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TUAN2003&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/TUAN2003"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TUAN2003&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/TUAN2003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUAN2003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
