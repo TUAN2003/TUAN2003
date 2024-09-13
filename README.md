@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
   <div>
-    <img src="svg/TUAN2003.svg" width="100%" alt="vuanhtuan" />
+    <img src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif" width="100%" alt="vuanhtuan" />
   </div>
 
 <h2 align="center">🛠 Skills 🛠</h2>
