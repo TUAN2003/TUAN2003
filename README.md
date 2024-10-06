@@ -16,15 +16,6 @@
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=21759B" alt="MySQL logo" title="MySQL" height="25" /></span>
 </div>
 <br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align="center" width="100%">
-<img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TUAN2003&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="TUAN2003" />
-</div>
-
-<br/>
 <h2 align="center">🙋 About Me</h2>
 <br>
 <!-- https://icons8.com -->
