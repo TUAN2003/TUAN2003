@@ -1,5 +1,5 @@
   <div>
-    <img src="svg/TUAN2003.svg" width="100%" alt="vuanhtuan" />
+    <img src="TUAN2003.svg" width="100%" alt="vuanhtuan" />
   </div>
 
 <h2 align="center">💻 Skills</h2>
