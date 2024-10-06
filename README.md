@@ -20,7 +20,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUAN2003&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=donut&border_color=61dafb&hide=css,html,scss,less" />
+    <img width="49%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUAN2003&hide_progress=true)" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TUAN2003&show_icons=true&theme=tokyonight&border_color=61dafb" />
 </div>
 
