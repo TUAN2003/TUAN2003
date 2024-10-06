@@ -22,7 +22,7 @@
 <br>
 <div align="center" width="100%">
 <img align="center" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TUAN2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="TUAN2003" />
-<img align="center" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TUAN2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="TUAN2003" />
+<img align="center" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TUAN2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=4&hide=css,html,scss,sass,less,stylus" alt="TUAN2003" />
 </div>
 
 <br/>
