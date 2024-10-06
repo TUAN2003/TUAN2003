@@ -75,9 +75,10 @@
           width: 74px;
         }
         .wave-text {
-            background: linear-gradient(10deg ,red, orange, yellow, green, blue, indigo, violet);
+            background: linear-gradient(90deg ,red, orange, yellow, green, blue, indigo, violet);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+				animation: wave 3s infinite linear;
         }
 			</style>
 
