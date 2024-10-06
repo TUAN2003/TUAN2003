@@ -16,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=21759B" alt="MySQL logo" title="MySQL" height="25" /></span>
 </div>
 <br/>
-<h2 align="center">📠 About Me</h2>
+<h2 align="center">🆘 About Me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
