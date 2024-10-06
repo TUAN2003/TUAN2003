@@ -78,15 +78,7 @@
             background: linear-gradient(90deg ,red, orange, yellow, green, blue, indigo, violet);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-				animation: wave 3s infinite linear;
-        }
-				@keyframes wave {
-            0% {
-                background-position: 0%;
-            }
-            100% {
-                background-position: 100%;
-            }
+		animation: typing 5s infinite linear;
         }
 			</style>
 
