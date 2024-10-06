@@ -21,7 +21,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center" width="100%">
-<img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TUAN2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&border_color=000000" alt="TUAN2003" />
+<img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TUAN2003&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="TUAN2003" />
 </div>
 
 <br/>
