@@ -7,7 +7,7 @@
 <div align="center">
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=3178C6" alt="Flutter logo" title="Flutter" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Adnroid-282C34?logo=android&logoColor=21759B" alt="AndroidJava logo" title="Android" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=express&logoColor=00F200" alt="Express.js logo" title="Express.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=00F200" alt="Express.js logo" title="Express.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
